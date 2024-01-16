@@ -23,3 +23,11 @@
 ### Descrição do Comando:
 
 - O comando setInterval atualiza a tela em intervalos de milissegundos.
+
+### Configuração Inicial:
+
+Inicialmente, o intervalo está definido para 1000 milissegundos (1 segundo).
+
+### Ajuste Gradual:
+
+Reduza gradualmente o valor do intervalo para aumentar a dificuldade do jogo.
