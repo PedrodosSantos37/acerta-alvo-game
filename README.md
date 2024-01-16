@@ -8,7 +8,18 @@
 
 - Para ganhar, deve-se acertar o meio do alvo, e quando acertar você será notificado na tela!
 
-  
 ## Observação:
 
-- Caso ache muito fácil para conseguir clicar no meio do alvo, mude a velocidade dentro do arquivo alvo.js dentro da pasta js. Você encontrará o comando SetInterval que ele atualiza a tela contando em milesegundos, ele inicia por 1000 milesegundos = 1 segundo , então basta ir diminuindo ao poucos até chegar no nível difícil! 
+- Se você acha que o nível está fácil, para ajustar a dificuldade com esses passos:
+
+### Localização do Arquivo:
+
+- Abra o arquivo alvo.js na pasta js.
+
+### Identificação do Comando:
+
+- Dentro do arquivo alvo.js, procure pelo comando setInterval.
+
+### Descrição do Comando:
+
+- O comando setInterval atualiza a tela em intervalos de milissegundos.
