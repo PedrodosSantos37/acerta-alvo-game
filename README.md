@@ -1,1 +1,1 @@
-# acerta-alvo-game
+# Acerte o alvo!
