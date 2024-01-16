@@ -1,5 +1,9 @@
 # Acerte o alvo!
 
+## Como acessar??
+
+- Você pode clonar esse repositório e abrir em seu VsCode.
+
 ## Funcionamento:
 
 - Para ganhar, deve-se acertar o meio do alvo, e quando acertar você será notificado na tela!
